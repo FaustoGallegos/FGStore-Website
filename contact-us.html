@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>FGStore | Contacto</title>
+  <meta name="description" content="Contáctate con FGStore para soporte, ventas o atención al cliente.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="js/cufon-yui.js"></script>
+  <script src="js/cufon-replace.js"></script>
+  <script src="js/Myriad_Pro_300.font.js"></script>
+</head>
+
+<body id="contact-page">
+<div class="tail-top">
+  <div class="tail-bottom">
+    <div class="body-bg">
+
+      <!-- HEADER -->
+      <header id="header">
+        <div class="extra"><img src="images/header-img.jpg" alt="Encabezado FGStore" /></div>
+        <div class="row-1">
+          <div class="fleft"><a href="index.html"><img src="images/logo.png" alt="Logo FGStore" /></a></div>
+          <div class="fright"><img src="images/phone.png" alt="Teléfono FGStore" /></div>
+        </div>
+
+        <nav class="row-2">
+          <ul>
+            <li class="m1"><a href="index.html">Inicio</a></li>
+            <li class="m2"><a href="about-us.html">Nosotros</a></li>
+            <li class="m3"><a href="services.html">Servicios</a></li>
+            <li class="m4"><a href="support.html">Soporte</a></li>
+            <li class="m5"><a href="contact-us.html" class="active">Contacto</a></li>
+            <li class="m6"><a href="sitemap.html">Mapa del sitio</a></li>
+          </ul>
+        </nav>
+
+        <div class="row-3">
+          <img src="images/slogan.png" alt="Slogan FGStore" />
+          <form action="#" method="post" id="search-form">
+            <fieldset>
+              <div>
+                <span>
+                  <input type="text" value="Buscar..." 
+                         onfocus="if(this.value=='Buscar...'){this.value=''}" 
+                         onblur="if(this.value==''){this.value='Buscar...'}" />
+                </span>
+                <a href="#"><img src="images/button.png" alt="Buscar" /></a>
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      </header>
+
+      <!-- CONTENT -->
+      <main id="content">
+        <div class="tail-right">
+          <div class="wrapper">
+
+            <!-- Columna izquierda -->
+            <div class="col-1">
+              <div class="indent">
+                <h3>Contáctanos</h3>
+                <p>Si tienes dudas, comentarios o necesitas asistencia, completa el siguiente formulario y nuestro equipo de FGStore se comunicará contigo a la brevedad.</p>
+
+                <form id="contacts-form" action="enviar_contacto.php" method="post">
+                  <fieldset>
+                    <div class="field">
+                      <label>Tu nombre:</label>
+                      <input type="text" name="nombre" placeholder="Ej. Carlos Gómez" required />
+                    </div>
+                    <div class="field">
+                      <label>Tu correo electrónico:</label>
+                      <input type="email" name="email" placeholder="Ej. correo@ejemplo.com" required />
+                    </div>
+                    <div class="field">
+                      <label>Asunto:</label>
+                      <input type="text" name="asunto" placeholder="Motivo del mensaje" />
+                    </div>
+                    <div class="field">
+                      <label>Tu mensaje:</label>
+                      <textarea name="mensaje" rows="5" placeholder="Escribe tu mensaje aquí..." required></textarea>
+                    </div>
+                    <div class="alignright">
+                      <button type="submit" class="btn-enviar">Enviar mensaje</button>
+                    </div>
+                  </fieldset>
+                </form>
+
+                <h4>Otras formas de contacto</h4>
+                <ul class="contact-info">
+                  <li><strong>Teléfono:</strong> +593 999 555 321</li>
+                  <li><strong>Correo:</strong> soporte@fgstore.com</li>
+                  <li><strong>Dirección:</strong> Av. Principal 123, Quito, Ecuador</li>
+                  <li><strong>Horario de atención:</strong> Lunes a viernes, 9:00 a 18:00</li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- Columna derecha -->
+            <aside class="col-2">
+              <h4>Últimas novedades</h4>
+              <ul>
+                <li><strong><a href="#">10 de octubre de 2025</a></strong> FGStore inaugura su nuevo centro de atención en línea.</li>
+                <li><strong><a href="#">25 de septiembre de 2025</a></strong> Se amplían los horarios de atención telefónica.</li>
+                <li><strong><a href="#">5 de septiembre de 2025</a></strong> Nuevo sistema de seguimiento de pedidos disponible.</li>
+                <li><strong><a href="#">20 de agosto de 2025</a></strong> Promociones especiales por apertura de temporada.</li>
+              </ul>
+            </aside>
+
+          </div>
+        </div>
+      </main>
+
+      <!-- FOOTER -->
+      <footer id="footer">
+        <div class="indent">
+          <div class="fleft">Diseñado por el equipo <strong>FGStore Web</strong></div>
+          <div class="fright">© 2025 FGStore - Todos los derechos reservados</div>
+        </div>
+      </footer>
+
+    </div>
+  </div>
+</div>
+
+<script>Cufon.now();</script>
+</body>
+</html>
