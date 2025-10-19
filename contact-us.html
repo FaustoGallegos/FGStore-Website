@@ -89,11 +89,28 @@
 
                 <h4>Otras formas de contacto</h4>
                 <ul class="contact-info">
-                  <li><strong>Teléfono:</strong> +593 999 555 321</li>
+                  <li><strong>Teléfono:</strong> +593992104458</li>
                   <li><strong>Correo:</strong> soporte@fgstore.com.ec</li>
-                  <li><strong>Dirección:</strong> Av. Américas 123, Cuenca, Ecuador</li>
-                  <li><strong>Horario de atención:</strong> Lunes a viernes, 9:00 a 18:00</li>
+                  <li><strong>Dirección:</strong> Tarqui 13-25 y Simón Bolívar, Cuenca, Ecuador</li>
+                  <li><strong>Horario de atención:</strong> Lunes a sábado, de 9:00 a 18:00 horas.</li>
                 </ul>
+
+                <!-- Redes Sociales -->
+                <div class="social-media-section">
+                  <h4>Síguenos en nuestras redes sociales:</h4>
+                  <div class="social-buttons">
+                    <a href="https://wa.me/593992104458" target="_blank" class="social-btn whatsapp">
+                      <img src="images/whatsapp.png" alt="WhatsApp FGStore" class="social-icon" />
+                      <span class="social-name">WhatsApp</span>
+                    </a>
+                    
+                    <a href="https://tiktok.com/@fgstore20?_t=ZM-90gAsJYqJPH&_r=1" target="_blank" class="social-btn tiktok">
+                      <img src="images/tiktok.png" alt="TikTok FGStore" class="social-icon" />
+                      <span class="social-name">TikTok</span>
+                    </a>
+                  </div>
+                </div>
+
               </div>
             </div>
 
@@ -125,5 +142,87 @@
 </div>
 
 <script>Cufon.now();</script>
+
+<style>
+  /* Estilos para las redes sociales */
+  .social-media-section {
+    margin-top: 30px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    border-left: 4px solid #2c3e50;
+  }
+
+  .social-media-section h4 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+
+  .social-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+  }
+
+  .social-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    min-width: 100px;
+    border: 2px solid transparent;
+    background: #f8f9fa;
+  }
+
+  .social-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  }
+
+  .social-btn.whatsapp:hover {
+    background: #25d366;
+    border-color: #25d366;
+  }
+
+  .social-btn.tiktok:hover {
+    background: #000000;
+    border-color: #ff0050;
+  }
+
+  .social-icon {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 8px;
+    object-fit: contain;
+  }
+
+  .social-name {
+    font-weight: bold;
+    font-size: 14px;
+    color: #333;
+  }
+
+  .social-btn:hover .social-name {
+    color: white;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .social-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .social-btn {
+      width: 200px;
+    }
+  }
+</style>
+
 </body>
 </html>
