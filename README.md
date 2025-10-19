@@ -31,9 +31,16 @@ Sitio web oficial de **FGStore**, tienda especializada en la venta de celulares 
 •	Soporte: Aquí los usuarios pueden encontrar ayuda en caso de tener dudas o inconvenientes. Incluye guías, preguntas frecuentes y opciones para contactar al equipo técnico de FGStore.
 <img width="951" height="570" alt="image" src="https://github.com/user-attachments/assets/6dfa7951-deae-4a9a-b249-6bc8f7942c54" />
 
-•	Contactos: Finalmente, en la sección de contactos, los usuarios pueden encontrar diferentes medios para comunicarse con nosotros.
+•	Contactos: En la sección de contactos, los usuarios pueden encontrar diferentes medios para comunicarse con nosotros.
 <img width="944" height="494" alt="image" src="https://github.com/user-attachments/assets/73d30a96-bfc6-46b3-8b9c-bc8ed8eff3cf" />
 <img width="882" height="462" alt="image" src="https://github.com/user-attachments/assets/9457c8ca-03d8-4f9a-8aff-94a49afdf805" />
+
+•	Capturas del Proyecto en VS Code
+<img width="1362" height="718" alt="image" src="https://github.com/user-attachments/assets/0c6d9197-ab5b-4e97-9df4-61a4bc890227" />
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/e459b1e6-3842-46e1-9478-b82a5aaa8056" />
+<img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/6eaaafbd-2e36-4ef6-9789-332a4699c9f2" />
+<img width="301" height="323" alt="image" src="https://github.com/user-attachments/assets/41b37d2c-ff99-4866-a706-46d79b9e09af" />
+
 
 
 
