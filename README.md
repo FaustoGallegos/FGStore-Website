@@ -39,6 +39,7 @@ Aquí los usuarios pueden encontrar ayuda en caso de tener dudas o inconveniente
 En la sección de contactos, los usuarios pueden encontrar diferentes medios para comunicarse con nosotros.
 <img width="944" height="494" alt="image" src="https://github.com/user-attachments/assets/73d30a96-bfc6-46b3-8b9c-bc8ed8eff3cf" />
 <img width="882" height="462" alt="image" src="https://github.com/user-attachments/assets/9457c8ca-03d8-4f9a-8aff-94a49afdf805" />
+<img width="963" height="615" alt="image" src="https://github.com/user-attachments/assets/2158f6e4-0076-461d-97e3-048f582e2c01" />
 
 ## Capturas del Proyecto en VS Code
 <img width="1362" height="718" alt="image" src="https://github.com/user-attachments/assets/0c6d9197-ab5b-4e97-9df4-61a4bc890227" />
