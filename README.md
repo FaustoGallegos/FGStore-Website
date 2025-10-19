@@ -45,6 +45,8 @@ En la sección de contactos, los usuarios pueden encontrar diferentes medios par
 <img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/e459b1e6-3842-46e1-9478-b82a5aaa8056" />
 <img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/6eaaafbd-2e36-4ef6-9789-332a4699c9f2" />
 <img width="301" height="323" alt="image" src="https://github.com/user-attachments/assets/41b37d2c-ff99-4866-a706-46d79b9e09af" />
+<img width="318" height="328" alt="image" src="https://github.com/user-attachments/assets/d326285f-26c0-43d6-9970-4da9161bdf32" />
+
 
 
 
